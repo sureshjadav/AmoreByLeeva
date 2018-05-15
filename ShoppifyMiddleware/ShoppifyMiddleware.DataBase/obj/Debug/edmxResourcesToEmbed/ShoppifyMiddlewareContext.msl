@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AmoreByLevaModelStoreContainer" CdmEntityContainer="ShoppifyDatabaseConnection">
+    <EntitySetMapping Name="ShopifyProducts">
+      <EntityTypeMapping TypeName="AmoreByLevaModel.ShopifyProduct">
+        <MappingFragment StoreEntitySet="ShopifyProducts">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="ProductType" ColumnName="ProductType" />
+          <ScalarProperty Name="Vendor" ColumnName="Vendor" />
+          <ScalarProperty Name="BodyHtml" ColumnName="BodyHtml" />
+          <ScalarProperty Name="Publish" ColumnName="Publish" />
+          <ScalarProperty Name="ShopifyId" ColumnName="ShopifyId" />
+          <ScalarProperty Name="CreatedDateUtc" ColumnName="CreatedDateUtc" />
+          <ScalarProperty Name="LastUpdatedUtc" ColumnName="LastUpdatedUtc" />
+          <ScalarProperty Name="UploadStatus" ColumnName="UploadStatus" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

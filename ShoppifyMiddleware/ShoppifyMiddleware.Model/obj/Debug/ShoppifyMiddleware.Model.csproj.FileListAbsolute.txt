@@ -1,0 +1,6 @@
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.Model\bin\Debug\ShoppifyMiddleware.Model.dll
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.Model\bin\Debug\ShoppifyMiddleware.Model.pdb
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.Model\obj\Debug\ShoppifyMiddleware.Model.csprojResolveAssemblyReference.cache
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.Model\obj\Debug\ShoppifyMiddleware.Model.csproj.CoreCompileInputs.cache
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.Model\obj\Debug\ShoppifyMiddleware.Model.dll
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.Model\obj\Debug\ShoppifyMiddleware.Model.pdb

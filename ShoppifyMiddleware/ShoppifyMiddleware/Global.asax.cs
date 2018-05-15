@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ShoppifyMiddleware.App_Start;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http.Formatting;
@@ -15,8 +16,10 @@ namespace ShoppifyMiddleware
     {
         protected void Application_Start()
         {
+            //Bootstrapper.Run();
             GlobalConfiguration.Configure(WebApiConfig.Register);
-            //GlobalConfiguration.Configuration.Formatters.XmlFormatter.SupportedMediaTypes.Clear();
+
+           
 
         }
     }

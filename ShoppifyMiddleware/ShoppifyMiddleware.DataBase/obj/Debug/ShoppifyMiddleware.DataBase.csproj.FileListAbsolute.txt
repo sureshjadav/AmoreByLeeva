@@ -1,0 +1,11 @@
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.DataBase\bin\Debug\ShoppifyMiddleware.DataBase.dll.config
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.DataBase\bin\Debug\ShoppifyMiddleware.DataBase.dll
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.DataBase\bin\Debug\ShoppifyMiddleware.DataBase.pdb
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.DataBase\bin\Debug\EntityFramework.dll
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.DataBase\bin\Debug\EntityFramework.xml
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.DataBase\obj\Debug\ShoppifyMiddleware.DataBase.csprojResolveAssemblyReference.cache
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.DataBase\obj\Debug\ShoppifyMiddleware.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.DataBase\obj\Debug\ShoppifyMiddleware.DataBase.dll
+C:\Users\morning mist\source\repos\AmoreByLeva\ShoppifyMiddleware\ShoppifyMiddleware.DataBase\obj\Debug\ShoppifyMiddleware.DataBase.pdb
